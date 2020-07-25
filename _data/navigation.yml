@@ -67,13 +67,13 @@
 #    url: "/blog/archive/"
 
 - title: Main
-  url: "/main/"
+  url: "/home/"
   side: left
   dropdown:
   - title: "Curriculum Vitae"
-    url: "/main/cv/"
+    url: "/home/cv/"
   - title: "Publications"
-    url: "/main/publications/"
+    url: "/home/publications/"
     
 - title: "Search"
   url: "/search/"
